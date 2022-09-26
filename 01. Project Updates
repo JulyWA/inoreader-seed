@@ -6,9 +6,36 @@
 	</head>
 <body>
 	<outline text="01. Project Updates" title="01. Project Updates">
-		<outline text="0x Blog - Medium" title="0x Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://blog.0xproject.com?source=rss----86e37ca8e375---4/" xmlUrl="https://blog.0xproject.com/feed"/>
 		<outline text="1inch exchange on Medium" title="1inch exchange on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@1inch-exchange?source=rss-c4f4cadf8a31------2" xmlUrl="https://medium.com/feed/@1inch-exchange"/>
-		<outline text="ZKOPRU (EF)" title="ZKOPRU (EF)" description="" type="rss" version="RSS" htmlUrl="https://medium.com/privacy-scaling-explorations?source=rss----67efc7e2b2cd---4" xmlUrl="https://medium.com/feed/privacy-scaling-explorations"/>
+		<outline text="Aave" title="Aave" description="" type="rss" version="RSS" htmlUrl="https://aave.mirror.xyz/" xmlUrl="https://aave.mirror.xyz/feed/atom"/>
+		<outline text="Aave Blog - Medium" title="Aave Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave?source=rss----b4ab878e405---4" xmlUrl="https://medium.com/feed/aave"/>
+		<outline text="Bitcoin Core releases" title="Bitcoin Core releases" description="" type="rss" version="RSS" htmlUrl="https://bitcoin.org/en/version-history" xmlUrl="https://bitcoin.org/en/rss/releases.rss"/>
+		<outline text="Blockchain.com" title="Blockchain.com" description="" type="rss" version="RSS" htmlUrl="https://medium.com/blockchain?source=rss----8ac49aa8fe03---4" xmlUrl="https://medium.com/feed/blockchain"/>
+		<outline text="Celestia Blog" title="Celestia Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.celestia.org/" xmlUrl="https://blog.celestia.org/rss/"/>
+		<outline text="Chainlink" title="Chainlink" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
+		<outline text="Crypto.com | Official Blog" title="Crypto.com | Official Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.crypto.com/" xmlUrl="https://blog.crypto.com/rss/"/>
+		<outline text="Curve Finance" title="Curve Finance" description="" type="rss" version="RSS" htmlUrl="https://blog.curve.fi/" xmlUrl="https://blog.curve.fi/feed"/>
+		<outline text="DAOfi - Medium" title="DAOfi - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/daofi?source=rss----a599c834877c---4" xmlUrl="https://medium.com/feed/daofi"/>
+		<outline text="Decentraland" title="Decentraland" description="" type="rss" version="RSS" htmlUrl="https://decentraland.org/blog/" xmlUrl="https://decentraland.org/blog/feed.xml"/>
+		<outline text="DeFi Alliance - Medium" title="DeFi Alliance - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/defi-alliance?source=rss----8cbc249b47fe---4" xmlUrl="https://medium.com/feed/defi-alliance"/>
+		<outline text="dYdX - The Integral" title="dYdX - The Integral" description="" type="rss" version="RSS" htmlUrl="https://integral.dydx.exchange/" xmlUrl="https://integral.dydx.exchange/rss/"/>
+		<outline text="Ethereum Blog" title="Ethereum Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.ethereum.org/" xmlUrl="https://blog.ethereum.org/feed.xml"/>
+		<outline text="Ethereum Cat Herders - Medium" title="Ethereum Cat Herders - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/ethereum-cat-herders?source=rss----cb99bef2c5dc---4" xmlUrl="https://medium.com/feed/ethereum-cat-herders"/>
+		<outline text="Ethereum Swarm - Medium" title="Ethereum Swarm - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/ethereum-swarm?source=rss----6491b1f2d8f9---4" xmlUrl="https://medium.com/feed/ethereum-swarm"/>
+		<outline text="Ethereum World Blog" title="Ethereum World Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.ethereum.world/" xmlUrl="https://blog.ethereum.world/rss/"/>
+		<outline text="Etherscan Blog - Medium" title="Etherscan Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/etherscan-blog?source=rss----3f7df27da979---4" xmlUrl="https://medium.com/feed/etherscan-blog"/>
+		<outline text="MetaMask - Medium" title="MetaMask - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/metamask?source=rss----a7c9b269e554---4" xmlUrl="https://medium.com/feed/metamask"/>
+		<outline text="NEAR Protocol" title="NEAR Protocol" description="" type="rss" version="RSS" htmlUrl="https://near.org/" xmlUrl="https://nearprotocol.com/feed/"/>
+		<outline text="NEAR Protocol - Medium" title="NEAR Protocol - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/nearprotocol?source=rss----1128a53be4a7---4" xmlUrl="https://medium.com/feed/nearprotocol"/>
+		<outline text="Snapshot Labs" title="Snapshot Labs" description="" type="rss" version="RSS" htmlUrl="https://snapshot.mirror.xyz/" xmlUrl="https://snapshot.mirror.xyz/feed/atom"/>
+		<outline text="Solidity Blog" title="Solidity Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.soliditylang.org/" xmlUrl="https://solidity.ethereum.org/feed.xml"/>
+		<outline text="Synthetix Blog" title="Synthetix Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
+		<outline text="Thales on Medium" title="Thales on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@thalesmarket?source=rss-485757756f28------2" xmlUrl="https://medium.com/feed/@thalesmarket"/>
+		<outline text="The Coinbase Blog - Medium" title="The Coinbase Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://blog.coinbase.com?source=rss----c114225aeaf7---4/" xmlUrl="https://blog.coinbase.com/feed"/>
+		<outline text="The Optimism Collective" title="The Optimism Collective" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
+		<outline text="The Sandbox - Medium" title="The Sandbox - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sandbox-game?source=rss----df97fb047c1e---4" xmlUrl="https://medium.com/feed/sandbox-game"/>
+		<outline text="Whale Shark on Medium" title="Whale Shark on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@whalesharkdotpro?source=rss-46e637eb91ff------2" xmlUrl="https://medium.com/feed/@whalesharkdotpro"/>
+		<outline text="Yearn - Medium" title="Yearn - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/iearn?source=rss----3ee5f70df954---4" xmlUrl="https://medium.com/feed/iearn"/>
 	</outline>
   </body>
 </opml>
